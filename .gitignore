@@ -5,6 +5,8 @@ __pycache__/*
 
 #extra
 venv/Lib/site-packages/
+.idea/workspace.xml
+
 # C extensions
 *.so
 
