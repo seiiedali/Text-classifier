@@ -3,6 +3,7 @@ The purpose of this program is to classify text in python progrmming language us
 - Naive Bayes classifier
 - Decision Tree
 - KNN
+
 Procedure of this software consist of the below phases of word processing:
 ## Preprocessing
 In this part, different operation like:
