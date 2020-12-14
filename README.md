@@ -1,8 +1,8 @@
 # Text classifier
 The purpose of this program is to classify text in python progrmming language using three following methods:
 - Naive Bayes classifier
-- Decision Tree
-- KNN
+- Decision Tree (to be developed)
+- KNN (to be developed)
 
 Procedure of this software consist of the below phases of word processing:
 ## Preprocessing
